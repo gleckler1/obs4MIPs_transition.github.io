@@ -1,3 +1,3 @@
-# obs4MIPs_transition.github.io
+# obs4MIPs_transition
 
 Testing...
